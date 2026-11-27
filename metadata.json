@@ -1,0 +1,6 @@
+{
+  "name": "Expense Insight Hub",
+  "description": "Comprehensive expense insight and financial analytics platform with receipt tracking, budget management, health analysis, and store discovery.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

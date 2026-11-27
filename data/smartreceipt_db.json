@@ -1,0 +1,2816 @@
+{
+  "users": [
+    {
+      "id": "user-demo-1",
+      "name": "Rahul Sharma",
+      "email": "rahul@expenseinsight.com",
+      "passwordHash": "password123",
+      "monthlyBudget": 10000,
+      "preferredCategories": [
+        "Food & Health",
+        "Grocery",
+        "Clothing"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-mauli-1",
+      "name": "Mauli Patel",
+      "email": "maulipatel@gmail.com",
+      "passwordHash": "mp@11111",
+      "monthlyBudget": 5000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health",
+        "Beauty & Personal Care"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-pratha-1",
+      "name": "Pratha Ghevariya",
+      "email": "prathaghevariya@gmail.com",
+      "passwordHash": "prath@2006",
+      "monthlyBudget": 10000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health",
+        "Home & Household",
+        "Beauty & Personal Care"
+      ],
+      "createdAt": "2026-09-03T02:38:53.412Z"
+    },
+    {
+      "id": "user-1788403703256-293",
+      "name": "Testfriend",
+      "email": "testfriend@gmail.com",
+      "passwordHash": "friendpass123",
+      "monthlyBudget": 5000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health",
+        "Beauty & Personal Care",
+        "Electronics"
+      ],
+      "createdAt": "2026-09-03T02:48:23.256Z"
+    },
+    {
+      "id": "user-1788404697827-716",
+      "name": "Mahigagani",
+      "email": "mahigagani@gmail.com",
+      "passwordHash": "mahi123",
+      "monthlyBudget": 5000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health",
+        "Beauty & Personal Care",
+        "Electronics"
+      ],
+      "createdAt": "2026-09-03T03:04:57.827Z"
+    },
+    {
+      "id": "user-1788431641115-129",
+      "name": "Ansh ghevariya",
+      "email": "anshghevariya@gmail.com",
+      "passwordHash": "ansh123",
+      "monthlyBudget": 15000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health",
+        "Beauty & Personal Care",
+        "Books & Education"
+      ],
+      "createdAt": "2026-09-03T10:34:01.115Z"
+    },
+    {
+      "id": "user-1788601762968-436",
+      "name": "Priya Patel",
+      "email": "friend_test_1788601762853@example.com",
+      "passwordHash": "FriendPassword123!",
+      "monthlyBudget": 5000,
+      "preferredCategories": [
+        "Grocery",
+        "Clothing",
+        "Food & Health"
+      ],
+      "createdAt": "2026-09-05T09:49:22.968Z"
+    },
+    {
+      "id": "user-priya-1",
+      "name": "Priya Ghevariya",
+      "email": "priya@gmail.com",
+      "passwordHash": "priya123",
+      "monthlyBudget": 10000,
+      "preferredCategories": [
+        "Grocery",
+        "Food & Health",
+        "Clothing"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-riya-1",
+      "name": "Riya Patel",
+      "email": "riya@gmail.com",
+      "passwordHash": "riya123",
+      "monthlyBudget": 8000,
+      "preferredCategories": [
+        "Grocery",
+        "Beauty & Personal Care"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-meet-1",
+      "name": "Meet Solanki",
+      "email": "meet@gmail.com",
+      "passwordHash": "meet123",
+      "monthlyBudget": 12000,
+      "preferredCategories": [
+        "Electronics",
+        "Grocery",
+        "Clothing"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-dhruv-1",
+      "name": "Dhruv Shah",
+      "email": "dhruv@gmail.com",
+      "passwordHash": "dhruv123",
+      "monthlyBudget": 9500,
+      "preferredCategories": [
+        "Grocery",
+        "Home & Household"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "user-neha-1",
+      "name": "Neha Parmar",
+      "email": "neha@gmail.com",
+      "passwordHash": "neha123",
+      "monthlyBudget": 7000,
+      "preferredCategories": [
+        "Clothing",
+        "Beauty & Personal Care",
+        "Grocery"
+      ],
+      "createdAt": "2026-08-01T10:00:00Z"
+    }
+  ],
+  "userReceipts": {
+    "user-1788403133412-605": [
+      {
+        "id": "rec-1789287230826",
+        "userId": "user-pratha-1",
+        "shopName": "Glow & Beauty Cosmetics",
+        "shopAddress": "12, Fashion Street, Ahmedabad, Gujarat - 380001",
+        "date": "2026-08-29",
+        "receiptNumber": "COS-2026-001",
+        "items": [
+          {
+            "id": "item-1789287226466-0",
+            "name": "Lakmé Face Foundation",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-1",
+            "name": "Maybelline Lipstick",
+            "quantity": 2,
+            "unitPrice": 250,
+            "totalPrice": 500,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-2",
+            "name": "Kajal",
+            "quantity": 1,
+            "unitPrice": 150,
+            "totalPrice": 150,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-3",
+            "name": "Face Wash",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Beauty & Personal Care"
+          }
+        ],
+        "tax": 60,
+        "grandTotal": 1260,
+        "healthSummary": "",
+        "createdAt": "2026-09-13T08:13:53.389Z"
+      },
+      {
+        "id": "rec-1789216921792",
+        "userId": "user-pratha-1",
+        "shopName": "EDU BOOKS & STATIONERY",
+        "shopAddress": "12, Knowledge Street, Opp. City Library, Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-29",
+        "receiptNumber": "EBE/2025/0829",
+        "items": [
+          {
+            "id": "item-1789216838490-0",
+            "name": "NCERT Mathematics Class 12 (Part 1)",
+            "quantity": 1,
+            "unitPrice": 320,
+            "totalPrice": 320,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-1",
+            "name": "NCERT Physics Class 12",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-2",
+            "name": "Objective General English",
+            "quantity": 1,
+            "unitPrice": 250,
+            "totalPrice": 250,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-3",
+            "name": "Exam Guide - Reasoning (Competitive)",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-4",
+            "name": "Classmate Notebook (200 Pages)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-5",
+            "name": "Blue Ball Pen (Pack of 5)",
+            "quantity": 1,
+            "unitPrice": 40,
+            "totalPrice": 40,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-6",
+            "name": "Geometry Box (Set)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1373,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T12:42:03.060Z"
+      },
+      {
+        "id": "rec-1789223994815",
+        "userId": "user-pratha-1",
+        "shopName": "SHIVSAKTI CLOTH SHOP",
+        "shopAddress": "Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-27",
+        "receiptNumber": "SSC/2025/0648",
+        "items": [
+          {
+            "id": "item-1789223980634-0",
+            "name": "T-Shirt Cotton Round Neck (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 499,
+            "totalPrice": 499,
+            "category": "Clothing"
+          },
+          {
+            "id": "item-1789223980634-1",
+            "name": "Pant Cotton Formal Pant (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing"
+          }
+        ],
+        "tax": 65,
+        "grandTotal": 1365,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T14:39:57.988Z"
+      },
+      {
+        "id": "rec-1789217631876",
+        "userId": "user-pratha-1",
+        "shopName": "SMART BAZAR",
+        "shopAddress": "Main Road, Near City Centre Mall, Ahmedabad, Gujarat - 380001",
+        "date": "2025-08-27",
+        "receiptNumber": "SB250827001",
+        "items": [
+          {
+            "id": "item-1789217609551-0",
+            "name": "Soda",
+            "quantity": 5,
+            "unitPrice": 10,
+            "totalPrice": 50,
+            "category": "Food & Health",
+            "healthStatus": "less_healthy",
+            "healthNote": "Ultra-processed cold drink high in added refined sugar (~25-35g per 250ml) and empty calories with high glycemic spike. Categorized as Less Healthy / Sugar."
+          },
+          {
+            "id": "item-1789217609552-1",
+            "name": "Biscuits",
+            "quantity": 3,
+            "unitPrice": 20,
+            "totalPrice": 60,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789217609552-2",
+            "name": "Rice (3kg)",
+            "quantity": 1,
+            "unitPrice": 100,
+            "totalPrice": 100,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 210,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-12T12:53:52.734Z"
+      },
+      {
+        "id": "rec-1789286579966",
+        "userId": "user-pratha-1",
+        "shopName": "CITY & HOUSEHOLD STORES",
+        "shopAddress": "123 Market Street, Springfield, IL 62704",
+        "date": "2023-10-14",
+        "receiptNumber": "45892",
+        "items": [
+          {
+            "id": "item-1789286555421-0",
+            "name": "AA BATTERIES (8pk)",
+            "quantity": 1,
+            "unitPrice": 4.99,
+            "totalPrice": 4.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555421-1",
+            "name": "LED LIGHT BULBS",
+            "quantity": 2,
+            "unitPrice": 2.5,
+            "totalPrice": 6.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-2",
+            "name": "DIGITAL THERMOMETER",
+            "quantity": 1,
+            "unitPrice": 6.99,
+            "totalPrice": 5.5,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-3",
+            "name": "HDMI CABLE (6ft)",
+            "quantity": 1,
+            "unitPrice": 5.5,
+            "totalPrice": 5.5,
+            "category": "Electronics"
+          },
+          {
+            "id": "item-1789286555422-4",
+            "name": "BREAD (WHOLE WHEAT)",
+            "quantity": 1,
+            "unitPrice": 2.89,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-5",
+            "name": "MILK (1 GAL)",
+            "quantity": 1,
+            "unitPrice": 3.99,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-6",
+            "name": "CANNED BEANS (15oz)",
+            "quantity": 2,
+            "unitPrice": 0.98,
+            "totalPrice": 1.99,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-7",
+            "name": "PASTA (1lb)",
+            "quantity": 1,
+            "unitPrice": 1.25,
+            "totalPrice": 1.11,
+            "category": "Grocery",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789286555422-8",
+            "name": "DISH SOAP (18oz)",
+            "quantity": 1,
+            "unitPrice": 2.19,
+            "totalPrice": 2.19,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-9",
+            "name": "PAPER TOWELS (6 Ris)",
+            "quantity": 1,
+            "unitPrice": 7.99,
+            "totalPrice": 7.59,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-10",
+            "name": "TRASH BAGS (30ct)",
+            "quantity": 1,
+            "unitPrice": 6.5,
+            "totalPrice": 6.5,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-11",
+            "name": "TOILET PAPER (12 Ris)",
+            "quantity": 1,
+            "unitPrice": 9.49,
+            "totalPrice": 9.49,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-12",
+            "name": "ALL-PURPOSE CLEANER",
+            "quantity": 1,
+            "unitPrice": 4.75,
+            "totalPrice": 4.75,
+            "category": "Home & Household"
+          },
+          {
+            "id": "it-1789292277654-14",
+            "name": "Rice",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 4.72,
+        "grandTotal": 268.3,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-13T08:02:59.966Z"
+      }
+    ],
+    "prathaghevariya@gmail.com": [
+      {
+        "id": "rec-1789287230826",
+        "userId": "user-pratha-1",
+        "shopName": "Glow & Beauty Cosmetics",
+        "shopAddress": "12, Fashion Street, Ahmedabad, Gujarat - 380001",
+        "date": "2026-08-29",
+        "receiptNumber": "COS-2026-001",
+        "items": [
+          {
+            "id": "item-1789287226466-0",
+            "name": "Lakmé Face Foundation",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-1",
+            "name": "Maybelline Lipstick",
+            "quantity": 2,
+            "unitPrice": 250,
+            "totalPrice": 500,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-2",
+            "name": "Kajal",
+            "quantity": 1,
+            "unitPrice": 150,
+            "totalPrice": 150,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-3",
+            "name": "Face Wash",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Beauty & Personal Care"
+          }
+        ],
+        "tax": 60,
+        "grandTotal": 1260,
+        "healthSummary": "",
+        "createdAt": "2026-09-13T08:13:53.389Z"
+      },
+      {
+        "id": "rec-1789216921792",
+        "userId": "user-pratha-1",
+        "shopName": "EDU BOOKS & STATIONERY",
+        "shopAddress": "12, Knowledge Street, Opp. City Library, Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-29",
+        "receiptNumber": "EBE/2025/0829",
+        "items": [
+          {
+            "id": "item-1789216838490-0",
+            "name": "NCERT Mathematics Class 12 (Part 1)",
+            "quantity": 1,
+            "unitPrice": 320,
+            "totalPrice": 320,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-1",
+            "name": "NCERT Physics Class 12",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-2",
+            "name": "Objective General English",
+            "quantity": 1,
+            "unitPrice": 250,
+            "totalPrice": 250,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-3",
+            "name": "Exam Guide - Reasoning (Competitive)",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-4",
+            "name": "Classmate Notebook (200 Pages)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-5",
+            "name": "Blue Ball Pen (Pack of 5)",
+            "quantity": 1,
+            "unitPrice": 40,
+            "totalPrice": 40,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-6",
+            "name": "Geometry Box (Set)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1373,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T12:42:03.060Z"
+      },
+      {
+        "id": "rec-1789223994815",
+        "userId": "user-pratha-1",
+        "shopName": "SHIVSAKTI CLOTH SHOP",
+        "shopAddress": "Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-27",
+        "receiptNumber": "SSC/2025/0648",
+        "items": [
+          {
+            "id": "item-1789223980634-0",
+            "name": "T-Shirt Cotton Round Neck (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 499,
+            "totalPrice": 499,
+            "category": "Clothing"
+          },
+          {
+            "id": "item-1789223980634-1",
+            "name": "Pant Cotton Formal Pant (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing"
+          }
+        ],
+        "tax": 65,
+        "grandTotal": 1365,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T14:39:57.988Z"
+      },
+      {
+        "id": "rec-1789217631876",
+        "userId": "user-pratha-1",
+        "shopName": "SMART BAZAR",
+        "shopAddress": "Main Road, Near City Centre Mall, Ahmedabad, Gujarat - 380001",
+        "date": "2025-08-27",
+        "receiptNumber": "SB250827001",
+        "items": [
+          {
+            "id": "item-1789217609551-0",
+            "name": "Soda",
+            "quantity": 5,
+            "unitPrice": 10,
+            "totalPrice": 50,
+            "category": "Food & Health",
+            "healthStatus": "less_healthy",
+            "healthNote": "Ultra-processed cold drink high in added refined sugar (~25-35g per 250ml) and empty calories with high glycemic spike. Categorized as Less Healthy / Sugar."
+          },
+          {
+            "id": "item-1789217609552-1",
+            "name": "Biscuits",
+            "quantity": 3,
+            "unitPrice": 20,
+            "totalPrice": 60,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789217609552-2",
+            "name": "Rice (3kg)",
+            "quantity": 1,
+            "unitPrice": 100,
+            "totalPrice": 100,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 210,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-12T12:53:52.734Z"
+      },
+      {
+        "id": "rec-1789286579966",
+        "userId": "user-pratha-1",
+        "shopName": "CITY & HOUSEHOLD STORES",
+        "shopAddress": "123 Market Street, Springfield, IL 62704",
+        "date": "2023-10-14",
+        "receiptNumber": "45892",
+        "items": [
+          {
+            "id": "item-1789286555421-0",
+            "name": "AA BATTERIES (8pk)",
+            "quantity": 1,
+            "unitPrice": 4.99,
+            "totalPrice": 4.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555421-1",
+            "name": "LED LIGHT BULBS",
+            "quantity": 2,
+            "unitPrice": 2.5,
+            "totalPrice": 6.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-2",
+            "name": "DIGITAL THERMOMETER",
+            "quantity": 1,
+            "unitPrice": 6.99,
+            "totalPrice": 5.5,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-3",
+            "name": "HDMI CABLE (6ft)",
+            "quantity": 1,
+            "unitPrice": 5.5,
+            "totalPrice": 5.5,
+            "category": "Electronics"
+          },
+          {
+            "id": "item-1789286555422-4",
+            "name": "BREAD (WHOLE WHEAT)",
+            "quantity": 1,
+            "unitPrice": 2.89,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-5",
+            "name": "MILK (1 GAL)",
+            "quantity": 1,
+            "unitPrice": 3.99,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-6",
+            "name": "CANNED BEANS (15oz)",
+            "quantity": 2,
+            "unitPrice": 0.98,
+            "totalPrice": 1.99,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-7",
+            "name": "PASTA (1lb)",
+            "quantity": 1,
+            "unitPrice": 1.25,
+            "totalPrice": 1.11,
+            "category": "Grocery",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789286555422-8",
+            "name": "DISH SOAP (18oz)",
+            "quantity": 1,
+            "unitPrice": 2.19,
+            "totalPrice": 2.19,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-9",
+            "name": "PAPER TOWELS (6 Ris)",
+            "quantity": 1,
+            "unitPrice": 7.99,
+            "totalPrice": 7.59,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-10",
+            "name": "TRASH BAGS (30ct)",
+            "quantity": 1,
+            "unitPrice": 6.5,
+            "totalPrice": 6.5,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-11",
+            "name": "TOILET PAPER (12 Ris)",
+            "quantity": 1,
+            "unitPrice": 9.49,
+            "totalPrice": 9.49,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-12",
+            "name": "ALL-PURPOSE CLEANER",
+            "quantity": 1,
+            "unitPrice": 4.75,
+            "totalPrice": 4.75,
+            "category": "Home & Household"
+          },
+          {
+            "id": "it-1789292277654-14",
+            "name": "Rice",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 4.72,
+        "grandTotal": 268.3,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-13T08:02:59.966Z"
+      }
+    ],
+    "user-demo-1": [
+      {
+        "id": "rec-rahul-101",
+        "userId": "user-demo-1",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-rahul-102",
+        "userId": "user-demo-1",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-rahul-103",
+        "userId": "user-demo-1",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "rahul@expenseinsight.com": [
+      {
+        "id": "rec-rahul-101",
+        "userId": "user-demo-1",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-rahul-102",
+        "userId": "user-demo-1",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-rahul-103",
+        "userId": "user-demo-1",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "user-1787910534094": [],
+    "user-mauli-1": [],
+    "maulipatel@gmail.com": [],
+    "user-1788403703256-293": [
+      {
+        "id": "rec-1788403703256-0",
+        "userId": "user-1788403703256-293",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-1788403703256-1",
+        "userId": "user-1788403703256-293",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-1788403703256-2",
+        "userId": "user-1788403703256-293",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "testfriend@gmail.com": [
+      {
+        "id": "rec-1788403703256-0",
+        "userId": "user-1788403703256-293",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-1788403703256-1",
+        "userId": "user-1788403703256-293",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-1788403703256-2",
+        "userId": "user-1788403703256-293",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "user-pratha-1": [
+      {
+        "id": "rec-1789287230826",
+        "userId": "user-pratha-1",
+        "shopName": "Glow & Beauty Cosmetics",
+        "shopAddress": "12, Fashion Street, Ahmedabad, Gujarat - 380001",
+        "date": "2026-08-29",
+        "receiptNumber": "COS-2026-001",
+        "items": [
+          {
+            "id": "item-1789287226466-0",
+            "name": "Lakmé Face Foundation",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-1",
+            "name": "Maybelline Lipstick",
+            "quantity": 2,
+            "unitPrice": 250,
+            "totalPrice": 500,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-2",
+            "name": "Kajal",
+            "quantity": 1,
+            "unitPrice": 150,
+            "totalPrice": 150,
+            "category": "Beauty & Personal Care"
+          },
+          {
+            "id": "item-1789287226466-3",
+            "name": "Face Wash",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Beauty & Personal Care"
+          }
+        ],
+        "tax": 60,
+        "grandTotal": 1260,
+        "healthSummary": "",
+        "createdAt": "2026-09-13T08:13:53.389Z"
+      },
+      {
+        "id": "rec-1789216921792",
+        "userId": "user-pratha-1",
+        "shopName": "EDU BOOKS & STATIONERY",
+        "shopAddress": "12, Knowledge Street, Opp. City Library, Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-29",
+        "receiptNumber": "EBE/2025/0829",
+        "items": [
+          {
+            "id": "item-1789216838490-0",
+            "name": "NCERT Mathematics Class 12 (Part 1)",
+            "quantity": 1,
+            "unitPrice": 320,
+            "totalPrice": 320,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-1",
+            "name": "NCERT Physics Class 12",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-2",
+            "name": "Objective General English",
+            "quantity": 1,
+            "unitPrice": 250,
+            "totalPrice": 250,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-3",
+            "name": "Exam Guide - Reasoning (Competitive)",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-4",
+            "name": "Classmate Notebook (200 Pages)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-5",
+            "name": "Blue Ball Pen (Pack of 5)",
+            "quantity": 1,
+            "unitPrice": 40,
+            "totalPrice": 40,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          },
+          {
+            "id": "item-1789216838490-6",
+            "name": "Geometry Box (Set)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Books & Education",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food household or personal item."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1373,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T12:42:03.060Z"
+      },
+      {
+        "id": "rec-1789223994815",
+        "userId": "user-pratha-1",
+        "shopName": "SHIVSAKTI CLOTH SHOP",
+        "shopAddress": "Bhavnagar, Gujarat - 364001",
+        "date": "2025-08-27",
+        "receiptNumber": "SSC/2025/0648",
+        "items": [
+          {
+            "id": "item-1789223980634-0",
+            "name": "T-Shirt Cotton Round Neck (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 499,
+            "totalPrice": 499,
+            "category": "Clothing"
+          },
+          {
+            "id": "item-1789223980634-1",
+            "name": "Pant Cotton Formal Pant (Men's Wear)",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing"
+          }
+        ],
+        "tax": 65,
+        "grandTotal": 1365,
+        "healthSummary": "",
+        "createdAt": "2026-09-12T14:39:57.988Z"
+      },
+      {
+        "id": "rec-1789217631876",
+        "userId": "user-pratha-1",
+        "shopName": "SMART BAZAR",
+        "shopAddress": "Main Road, Near City Centre Mall, Ahmedabad, Gujarat - 380001",
+        "date": "2025-08-27",
+        "receiptNumber": "SB250827001",
+        "items": [
+          {
+            "id": "item-1789217609551-0",
+            "name": "Soda",
+            "quantity": 5,
+            "unitPrice": 10,
+            "totalPrice": 50,
+            "category": "Food & Health",
+            "healthStatus": "less_healthy",
+            "healthNote": "Ultra-processed cold drink high in added refined sugar (~25-35g per 250ml) and empty calories with high glycemic spike. Categorized as Less Healthy / Sugar."
+          },
+          {
+            "id": "item-1789217609552-1",
+            "name": "Biscuits",
+            "quantity": 3,
+            "unitPrice": 20,
+            "totalPrice": 60,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789217609552-2",
+            "name": "Rice (3kg)",
+            "quantity": 1,
+            "unitPrice": 100,
+            "totalPrice": 100,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 210,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-12T12:53:52.734Z"
+      },
+      {
+        "id": "rec-1789286579966",
+        "userId": "user-pratha-1",
+        "shopName": "CITY & HOUSEHOLD STORES",
+        "shopAddress": "123 Market Street, Springfield, IL 62704",
+        "date": "2023-10-14",
+        "receiptNumber": "45892",
+        "items": [
+          {
+            "id": "item-1789286555421-0",
+            "name": "AA BATTERIES (8pk)",
+            "quantity": 1,
+            "unitPrice": 4.99,
+            "totalPrice": 4.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555421-1",
+            "name": "LED LIGHT BULBS",
+            "quantity": 2,
+            "unitPrice": 2.5,
+            "totalPrice": 6.99,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-2",
+            "name": "DIGITAL THERMOMETER",
+            "quantity": 1,
+            "unitPrice": 6.99,
+            "totalPrice": 5.5,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-3",
+            "name": "HDMI CABLE (6ft)",
+            "quantity": 1,
+            "unitPrice": 5.5,
+            "totalPrice": 5.5,
+            "category": "Electronics"
+          },
+          {
+            "id": "item-1789286555422-4",
+            "name": "BREAD (WHOLE WHEAT)",
+            "quantity": 1,
+            "unitPrice": 2.89,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-5",
+            "name": "MILK (1 GAL)",
+            "quantity": 1,
+            "unitPrice": 3.99,
+            "totalPrice": 3.49,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          },
+          {
+            "id": "item-1789286555422-6",
+            "name": "CANNED BEANS (15oz)",
+            "quantity": 2,
+            "unitPrice": 0.98,
+            "totalPrice": 1.99,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          },
+          {
+            "id": "item-1789286555422-7",
+            "name": "PASTA (1lb)",
+            "quantity": 1,
+            "unitPrice": 1.25,
+            "totalPrice": 1.11,
+            "category": "Grocery",
+            "healthStatus": "limit",
+            "healthNote": "Moderate nutritional value with refined flour, higher sodium, or saturated fat. Consume in mindful portions."
+          },
+          {
+            "id": "item-1789286555422-8",
+            "name": "DISH SOAP (18oz)",
+            "quantity": 1,
+            "unitPrice": 2.19,
+            "totalPrice": 2.19,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-9",
+            "name": "PAPER TOWELS (6 Ris)",
+            "quantity": 1,
+            "unitPrice": 7.99,
+            "totalPrice": 7.59,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-10",
+            "name": "TRASH BAGS (30ct)",
+            "quantity": 1,
+            "unitPrice": 6.5,
+            "totalPrice": 6.5,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-11",
+            "name": "TOILET PAPER (12 Ris)",
+            "quantity": 1,
+            "unitPrice": 9.49,
+            "totalPrice": 9.49,
+            "category": "Home & Household"
+          },
+          {
+            "id": "item-1789286555422-12",
+            "name": "ALL-PURPOSE CLEANER",
+            "quantity": 1,
+            "unitPrice": 4.75,
+            "totalPrice": 4.75,
+            "category": "Home & Household"
+          },
+          {
+            "id": "it-1789292277654-14",
+            "name": "Rice",
+            "quantity": 1,
+            "unitPrice": 200,
+            "totalPrice": 200,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutrient-dense whole food staple essential for balanced daily diet."
+          }
+        ],
+        "tax": 4.72,
+        "grandTotal": 268.3,
+        "healthSummary": "Receipt updated successfully.",
+        "createdAt": "2026-09-13T08:02:59.966Z"
+      }
+    ],
+    "user-1788404697827-716": [
+      {
+        "id": "rec-1788404697827-0",
+        "userId": "user-1788404697827-716",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-1788404697827-1",
+        "userId": "user-1788404697827-716",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-1788404697827-2",
+        "userId": "user-1788404697827-716",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "mahigagani@gmail.com": [
+      {
+        "id": "rec-1788404697827-0",
+        "userId": "user-1788404697827-716",
+        "shopName": "Smart Supermarket & Fresh Mart",
+        "shopAddress": "City Center Mall, Gujarat",
+        "date": "2026-08-28",
+        "receiptNumber": "REC-PR-8821",
+        "items": [
+          {
+            "id": "it-p-1",
+            "name": "Organic Basmati Rice (5kg)",
+            "quantity": 1,
+            "unitPrice": 380,
+            "totalPrice": 380,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious staple grain."
+          },
+          {
+            "id": "it-p-2",
+            "name": "Fresh Amul Taaza Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 60,
+            "totalPrice": 120,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Good source of calcium."
+          },
+          {
+            "id": "it-p-3",
+            "name": "Whole Wheat Bread (400g)",
+            "quantity": 1,
+            "unitPrice": 45,
+            "totalPrice": 45,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "High fiber whole grain."
+          },
+          {
+            "id": "it-p-4",
+            "name": "Digestive Biscuits (200g)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Contains moderate refined sugars."
+          }
+        ],
+        "tax": 15,
+        "grandTotal": 630,
+        "healthSummary": "Healthy purchase balance with wholesome whole grains and dairy.",
+        "createdAt": "2026-08-28T11:20:00Z"
+      },
+      {
+        "id": "rec-1788404697827-1",
+        "userId": "user-1788404697827-716",
+        "shopName": "Trends Lifestyle & Apparel",
+        "shopAddress": "Alpha One Circle, Fashion Galleria",
+        "date": "2026-08-20",
+        "receiptNumber": "REC-TR-4910",
+        "items": [
+          {
+            "id": "it-p-5",
+            "name": "Women Pure Cotton Kurti",
+            "quantity": 1,
+            "unitPrice": 899,
+            "totalPrice": 899,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          },
+          {
+            "id": "it-p-6",
+            "name": "Denim Casual Pants",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Non-food apparel."
+          }
+        ],
+        "tax": 100,
+        "grandTotal": 2199,
+        "healthSummary": "Apparel wardrobe update.",
+        "createdAt": "2026-08-20T16:45:00Z"
+      },
+      {
+        "id": "rec-1788404697827-2",
+        "userId": "user-1788404697827-716",
+        "shopName": "Pantry Fresh & Greens",
+        "shopAddress": "Subhash Road Market",
+        "date": "2026-08-14",
+        "receiptNumber": "REC-PF-3109",
+        "items": [
+          {
+            "id": "it-p-7",
+            "name": "Green Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 140,
+            "totalPrice": 140,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Rich in antioxidants and dietary fiber."
+          },
+          {
+            "id": "it-p-8",
+            "name": "Rolled Oats (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Heart-healthy soluble fiber."
+          },
+          {
+            "id": "it-p-9",
+            "name": "Greek Plain Yogurt (400g)",
+            "quantity": 1,
+            "unitPrice": 85,
+            "totalPrice": 85,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "High protein and probiotics."
+          }
+        ],
+        "tax": 10,
+        "grandTotal": 415,
+        "healthSummary": "Superb health grade: 100% wholesome fruits and nutritious breakfast staples.",
+        "createdAt": "2026-08-14T09:15:00Z"
+      }
+    ],
+    "user-1788411560402-569": [],
+    "user-1788431641115-129": [],
+    "anshghevariya@gmail.com": [],
+    "user-1788601762968-436": [
+      {
+        "id": "rec-1788601762981",
+        "userId": "user-1788601762968-436",
+        "shopName": "Starbucks Coffee",
+        "shopAddress": "",
+        "date": "2026-09-05",
+        "receiptNumber": "REC-SB-999",
+        "items": [
+          {
+            "id": "it-1788601762981-0",
+            "name": "Caffe Latte",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          }
+        ],
+        "tax": 14,
+        "grandTotal": 294,
+        "healthSummary": "Nutritional breakdown: 1 healthy, 0 moderate, 0 to limit.",
+        "createdAt": "2026-09-05T09:49:22.981Z"
+      }
+    ],
+    "friend_test_1788601762853@example.com": [
+      {
+        "id": "rec-1788601762981",
+        "userId": "user-1788601762968-436",
+        "shopName": "Starbucks Coffee",
+        "shopAddress": "",
+        "date": "2026-09-05",
+        "receiptNumber": "REC-SB-999",
+        "items": [
+          {
+            "id": "it-1788601762981-0",
+            "name": "Caffe Latte",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "General pantry staple."
+          }
+        ],
+        "tax": 14,
+        "grandTotal": 294,
+        "healthSummary": "Nutritional breakdown: 1 healthy, 0 moderate, 0 to limit.",
+        "createdAt": "2026-09-05T09:49:22.981Z"
+      }
+    ],
+    "user-priya-1": [
+      {
+        "id": "rec-priya-1",
+        "userId": "user-priya-1",
+        "shopName": "Smart Bazar",
+        "shopAddress": "Phoenix Mall, Ring Road",
+        "date": "2026-08-12",
+        "receiptNumber": "REC-SB-1029",
+        "items": [
+          {
+            "id": "it-sb-1",
+            "name": "Fresh Farm Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious fresh fruits."
+          },
+          {
+            "id": "it-sb-2",
+            "name": "Almond Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 280,
+            "totalPrice": 560,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Plant-based dairy alternative."
+          },
+          {
+            "id": "it-sb-3",
+            "name": "Whole Grain Pasta",
+            "quantity": 3,
+            "unitPrice": 170,
+            "totalPrice": 510,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Complex carbs with fiber."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1250,
+        "healthSummary": "Excellent nutritional balance with wholesome staples.",
+        "createdAt": "2026-08-12T14:30:00Z"
+      }
+    ],
+    "priya@gmail.com": [
+      {
+        "id": "rec-priya-1",
+        "userId": "user-priya-1",
+        "shopName": "Smart Bazar",
+        "shopAddress": "Phoenix Mall, Ring Road",
+        "date": "2026-08-12",
+        "receiptNumber": "REC-SB-1029",
+        "items": [
+          {
+            "id": "it-sb-1",
+            "name": "Fresh Farm Apples (1kg)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Nutritious fresh fruits."
+          },
+          {
+            "id": "it-sb-2",
+            "name": "Almond Milk (1L)",
+            "quantity": 2,
+            "unitPrice": 280,
+            "totalPrice": 560,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Plant-based dairy alternative."
+          },
+          {
+            "id": "it-sb-3",
+            "name": "Whole Grain Pasta",
+            "quantity": 3,
+            "unitPrice": 170,
+            "totalPrice": 510,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Complex carbs with fiber."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1250,
+        "healthSummary": "Excellent nutritional balance with wholesome staples.",
+        "createdAt": "2026-08-12T14:30:00Z"
+      }
+    ],
+    "user-riya-1": [
+      {
+        "id": "rec-riya-1",
+        "userId": "user-riya-1",
+        "shopName": "Reliance Fresh",
+        "shopAddress": "Heritage Complex, Market Lane",
+        "date": "2026-08-10",
+        "receiptNumber": "REC-RF-4412",
+        "items": [
+          {
+            "id": "it-rf-1",
+            "name": "Skimmed Milk (500ml)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Low-fat calcium source."
+          },
+          {
+            "id": "it-rf-2",
+            "name": "Brown Bread Loaf",
+            "quantity": 2,
+            "unitPrice": 50,
+            "totalPrice": 100,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Whole grain bakery."
+          },
+          {
+            "id": "it-rf-3",
+            "name": "Organic Honey (250g)",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Natural sweetener."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 520,
+        "healthSummary": "Light wholesome pantry restock.",
+        "createdAt": "2026-08-10T11:15:00Z"
+      }
+    ],
+    "riya@gmail.com": [
+      {
+        "id": "rec-riya-1",
+        "userId": "user-riya-1",
+        "shopName": "Reliance Fresh",
+        "shopAddress": "Heritage Complex, Market Lane",
+        "date": "2026-08-10",
+        "receiptNumber": "REC-RF-4412",
+        "items": [
+          {
+            "id": "it-rf-1",
+            "name": "Skimmed Milk (500ml)",
+            "quantity": 2,
+            "unitPrice": 35,
+            "totalPrice": 70,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Low-fat calcium source."
+          },
+          {
+            "id": "it-rf-2",
+            "name": "Brown Bread Loaf",
+            "quantity": 2,
+            "unitPrice": 50,
+            "totalPrice": 100,
+            "category": "Grocery",
+            "healthStatus": "healthy",
+            "healthNote": "Whole grain bakery."
+          },
+          {
+            "id": "it-rf-3",
+            "name": "Organic Honey (250g)",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Food & Health",
+            "healthStatus": "limit",
+            "healthNote": "Natural sweetener."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 520,
+        "healthSummary": "Light wholesome pantry restock.",
+        "createdAt": "2026-08-10T11:15:00Z"
+      }
+    ],
+    "user-meet-1": [
+      {
+        "id": "rec-meet-1",
+        "userId": "user-meet-1",
+        "shopName": "Big Bazar",
+        "shopAddress": "Highway Hub Square",
+        "date": "2026-08-08",
+        "receiptNumber": "REC-BB-9920",
+        "items": [
+          {
+            "id": "it-bb-1",
+            "name": "Bluetooth Earbuds",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Electronics",
+            "healthStatus": "healthy",
+            "healthNote": "Personal electronic accessories."
+          },
+          {
+            "id": "it-bb-2",
+            "name": "Cotton Athletic Socks (Pack of 3)",
+            "quantity": 1,
+            "unitPrice": 300,
+            "totalPrice": 300,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Sportswear."
+          },
+          {
+            "id": "it-bb-3",
+            "name": "Mixed Roasted Nuts (200g)",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Healthy plant fats."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1780,
+        "healthSummary": "Tech and lifestyle purchase with nutritious snacks.",
+        "createdAt": "2026-08-08T18:00:00Z"
+      }
+    ],
+    "meet@gmail.com": [
+      {
+        "id": "rec-meet-1",
+        "userId": "user-meet-1",
+        "shopName": "Big Bazar",
+        "shopAddress": "Highway Hub Square",
+        "date": "2026-08-08",
+        "receiptNumber": "REC-BB-9920",
+        "items": [
+          {
+            "id": "it-bb-1",
+            "name": "Bluetooth Earbuds",
+            "quantity": 1,
+            "unitPrice": 1200,
+            "totalPrice": 1200,
+            "category": "Electronics",
+            "healthStatus": "healthy",
+            "healthNote": "Personal electronic accessories."
+          },
+          {
+            "id": "it-bb-2",
+            "name": "Cotton Athletic Socks (Pack of 3)",
+            "quantity": 1,
+            "unitPrice": 300,
+            "totalPrice": 300,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Sportswear."
+          },
+          {
+            "id": "it-bb-3",
+            "name": "Mixed Roasted Nuts (200g)",
+            "quantity": 1,
+            "unitPrice": 280,
+            "totalPrice": 280,
+            "category": "Food & Health",
+            "healthStatus": "healthy",
+            "healthNote": "Healthy plant fats."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 1780,
+        "healthSummary": "Tech and lifestyle purchase with nutritious snacks.",
+        "createdAt": "2026-08-08T18:00:00Z"
+      }
+    ],
+    "user-dhruv-1": [
+      {
+        "id": "rec-dhruv-1",
+        "userId": "user-dhruv-1",
+        "shopName": "D-Mart",
+        "shopAddress": "Subhash Bridge Corner",
+        "date": "2026-08-05",
+        "receiptNumber": "REC-DM-3021",
+        "items": [
+          {
+            "id": "it-dm-1",
+            "name": "Toilet Cleaner & Disinfectant",
+            "quantity": 2,
+            "unitPrice": 120,
+            "totalPrice": 240,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Home sanitation supplies."
+          },
+          {
+            "id": "it-dm-2",
+            "name": "Floor Mopping Liquid (1L)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Cleaning supplies."
+          },
+          {
+            "id": "it-dm-3",
+            "name": "Kitchen Dishwash Gel (750ml)",
+            "quantity": 1,
+            "unitPrice": 220,
+            "totalPrice": 220,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Kitchen hygiene."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 640,
+        "healthSummary": "Household cleaning and hygiene essentials.",
+        "createdAt": "2026-08-05T10:45:00Z"
+      }
+    ],
+    "dhruv@gmail.com": [
+      {
+        "id": "rec-dhruv-1",
+        "userId": "user-dhruv-1",
+        "shopName": "D-Mart",
+        "shopAddress": "Subhash Bridge Corner",
+        "date": "2026-08-05",
+        "receiptNumber": "REC-DM-3021",
+        "items": [
+          {
+            "id": "it-dm-1",
+            "name": "Toilet Cleaner & Disinfectant",
+            "quantity": 2,
+            "unitPrice": 120,
+            "totalPrice": 240,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Home sanitation supplies."
+          },
+          {
+            "id": "it-dm-2",
+            "name": "Floor Mopping Liquid (1L)",
+            "quantity": 1,
+            "unitPrice": 180,
+            "totalPrice": 180,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Cleaning supplies."
+          },
+          {
+            "id": "it-dm-3",
+            "name": "Kitchen Dishwash Gel (750ml)",
+            "quantity": 1,
+            "unitPrice": 220,
+            "totalPrice": 220,
+            "category": "Home & Household",
+            "healthStatus": "healthy",
+            "healthNote": "Kitchen hygiene."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 640,
+        "healthSummary": "Household cleaning and hygiene essentials.",
+        "createdAt": "2026-08-05T10:45:00Z"
+      }
+    ],
+    "user-neha-1": [
+      {
+        "id": "rec-neha-1",
+        "userId": "user-neha-1",
+        "shopName": "Vishal Mega Mart",
+        "shopAddress": "Station Road Arcade",
+        "date": "2026-08-02",
+        "receiptNumber": "REC-VMM-8812",
+        "items": [
+          {
+            "id": "it-vmm-1",
+            "name": "Printed Casual Scarf",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Fashion accessory."
+          },
+          {
+            "id": "it-vmm-2",
+            "name": "Moisturizing Aloe Face Wash",
+            "quantity": 1,
+            "unitPrice": 230,
+            "totalPrice": 230,
+            "category": "Beauty & Personal Care",
+            "healthStatus": "healthy",
+            "healthNote": "Skincare routine."
+          },
+          {
+            "id": "it-vmm-3",
+            "name": "Herbal Shampoo (200ml)",
+            "quantity": 1,
+            "unitPrice": 400,
+            "totalPrice": 400,
+            "category": "Beauty & Personal Care",
+            "healthStatus": "healthy",
+            "healthNote": "Personal care hygiene."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 980,
+        "healthSummary": "Personal care and beauty wellness items.",
+        "createdAt": "2026-08-02T16:20:00Z"
+      }
+    ],
+    "neha@gmail.com": [
+      {
+        "id": "rec-neha-1",
+        "userId": "user-neha-1",
+        "shopName": "Vishal Mega Mart",
+        "shopAddress": "Station Road Arcade",
+        "date": "2026-08-02",
+        "receiptNumber": "REC-VMM-8812",
+        "items": [
+          {
+            "id": "it-vmm-1",
+            "name": "Printed Casual Scarf",
+            "quantity": 1,
+            "unitPrice": 350,
+            "totalPrice": 350,
+            "category": "Clothing",
+            "healthStatus": "healthy",
+            "healthNote": "Fashion accessory."
+          },
+          {
+            "id": "it-vmm-2",
+            "name": "Moisturizing Aloe Face Wash",
+            "quantity": 1,
+            "unitPrice": 230,
+            "totalPrice": 230,
+            "category": "Beauty & Personal Care",
+            "healthStatus": "healthy",
+            "healthNote": "Skincare routine."
+          },
+          {
+            "id": "it-vmm-3",
+            "name": "Herbal Shampoo (200ml)",
+            "quantity": 1,
+            "unitPrice": 400,
+            "totalPrice": 400,
+            "category": "Beauty & Personal Care",
+            "healthStatus": "healthy",
+            "healthNote": "Personal care hygiene."
+          }
+        ],
+        "tax": 0,
+        "grandTotal": 980,
+        "healthSummary": "Personal care and beauty wellness items.",
+        "createdAt": "2026-08-02T16:20:00Z"
+      }
+    ]
+  },
+  "userBudgets": {
+    "user-1788403133412-605": [
+      {
+        "category": "Grocery",
+        "allocated": 1750,
+        "spent": 350
+      },
+      {
+        "category": "Food & Health",
+        "allocated": 1000,
+        "spent": 220
+      },
+      {
+        "category": "Clothing",
+        "allocated": 1000,
+        "spent": 2800
+      },
+      {
+        "category": "Beauty & Personal Care",
+        "allocated": 750,
+        "spent": 1200
+      }
+    ],
+    "user-1788403703256-293": [],
+    "user-pratha-1": [
+      {
+        "category": "Grocery",
+        "allocated": 1750,
+        "spent": 350
+      },
+      {
+        "category": "Food & Health",
+        "allocated": 1000,
+        "spent": 220
+      },
+      {
+        "category": "Clothing",
+        "allocated": 1000,
+        "spent": 2800
+      },
+      {
+        "category": "Beauty & Personal Care",
+        "allocated": 750,
+        "spent": 1200
+      }
+    ],
+    "prathaghevariya@gmail.com": [
+      {
+        "category": "Grocery",
+        "allocated": 1750,
+        "spent": 350
+      },
+      {
+        "category": "Food & Health",
+        "allocated": 1000,
+        "spent": 220
+      },
+      {
+        "category": "Clothing",
+        "allocated": 1000,
+        "spent": 2800
+      },
+      {
+        "category": "Beauty & Personal Care",
+        "allocated": 750,
+        "spent": 1200
+      }
+    ],
+    "testfriend@gmail.com": [],
+    "user-mauli-1": [],
+    "maulipatel@gmail.com": [],
+    "user-demo-1": [],
+    "rahul@expenseinsight.com": [],
+    "user-1788404697827-716": [],
+    "user-1788431641115-129": [],
+    "user-1788601762968-436": []
+  },
+  "userShoppingLists": {
+    "user-1788403133412-605": [],
+    "user-1788403703256-293": [],
+    "user-pratha-1": [],
+    "prathaghevariya@gmail.com": [],
+    "testfriend@gmail.com": [],
+    "user-mauli-1": [],
+    "maulipatel@gmail.com": [],
+    "user-demo-1": [],
+    "rahul@expenseinsight.com": [],
+    "user-1788404697827-716": [],
+    "user-1788431641115-129": [],
+    "user-1788601762968-436": []
+  },
+  "userDeletedReceipts": {
+    "user-pratha-1": [
+      "rec-1788601412192",
+      "rec-1788435352317",
+      "rec-1789114249143",
+      "rec-1788601363168",
+      "rec-1788435735426",
+      "rec-1788881791387",
+      "rec-1789133533658",
+      "rec-1789116421717",
+      "rec-1789217808866",
+      "rec-1789217142032"
+    ],
+    "prathaghevariya@gmail.com": [
+      "rec-1788601412192",
+      "rec-1788435352317",
+      "rec-1789114249143",
+      "rec-1788601363168",
+      "rec-1788435735426",
+      "rec-1788881791387",
+      "rec-1789133533658",
+      "rec-1789116421717",
+      "rec-1789217808866",
+      "rec-1789217142032"
+    ],
+    "user-1788403133412-605": [
+      "rec-1788601412192",
+      "rec-1788435352317",
+      "rec-1789114249143",
+      "rec-1788601363168",
+      "rec-1788435735426",
+      "rec-1788881791387",
+      "rec-1789133533658",
+      "rec-1789116421717",
+      "rec-1789217808866",
+      "rec-1789217142032"
+    ]
+  },
+  "userSavingsGoals": {
+    "user-demo-1": [
+      {
+        "id": "sg-1",
+        "goalName": "New Laptop",
+        "targetAmount": 50000,
+        "savedAmount": 15000,
+        "targetDate": "2026-12-30",
+        "category": "gadgets",
+        "notes": "MacBook Air / Coding workstation for projects",
+        "deposits": [
+          {
+            "id": "dep-1",
+            "amount": 5000,
+            "date": "2026-08-05",
+            "note": "Initial savings allocation"
+          },
+          {
+            "id": "dep-2",
+            "amount": 5000,
+            "date": "2026-08-20",
+            "note": "Monthly savings allowance"
+          },
+          {
+            "id": "dep-3",
+            "amount": 5000,
+            "date": "2026-09-02",
+            "note": "Part-time project incentive"
+          }
+        ],
+        "createdAt": "2026-08-01T00:00:00Z",
+        "userId": "user-demo-1"
+      },
+      {
+        "id": "sg-2",
+        "goalName": "Emergency Fund",
+        "targetAmount": 30000,
+        "savedAmount": 18000,
+        "targetDate": "2026-11-30",
+        "category": "emergency",
+        "notes": "3 months emergency cushion for financial safety",
+        "deposits": [
+          {
+            "id": "dep-4",
+            "amount": 10000,
+            "date": "2026-08-01",
+            "note": "Base fund reserve"
+          },
+          {
+            "id": "dep-5",
+            "amount": 8000,
+            "date": "2026-08-28",
+            "note": "August savings transfer"
+          }
+        ],
+        "createdAt": "2026-08-01T00:00:00Z",
+        "userId": "user-demo-1"
+      }
+    ],
+    "rahul@expenseinsight.com": [
+      {
+        "id": "sg-1",
+        "goalName": "New Laptop",
+        "targetAmount": 50000,
+        "savedAmount": 15000,
+        "targetDate": "2026-12-30",
+        "category": "gadgets",
+        "notes": "MacBook Air / Coding workstation for projects",
+        "deposits": [
+          {
+            "id": "dep-1",
+            "amount": 5000,
+            "date": "2026-08-05",
+            "note": "Initial savings allocation"
+          },
+          {
+            "id": "dep-2",
+            "amount": 5000,
+            "date": "2026-08-20",
+            "note": "Monthly savings allowance"
+          },
+          {
+            "id": "dep-3",
+            "amount": 5000,
+            "date": "2026-09-02",
+            "note": "Part-time project incentive"
+          }
+        ],
+        "createdAt": "2026-08-01T00:00:00Z",
+        "userId": "user-demo-1"
+      },
+      {
+        "id": "sg-2",
+        "goalName": "Emergency Fund",
+        "targetAmount": 30000,
+        "savedAmount": 18000,
+        "targetDate": "2026-11-30",
+        "category": "emergency",
+        "notes": "3 months emergency cushion for financial safety",
+        "deposits": [
+          {
+            "id": "dep-4",
+            "amount": 10000,
+            "date": "2026-08-01",
+            "note": "Base fund reserve"
+          },
+          {
+            "id": "dep-5",
+            "amount": 8000,
+            "date": "2026-08-28",
+            "note": "August savings transfer"
+          }
+        ],
+        "createdAt": "2026-08-01T00:00:00Z",
+        "userId": "user-demo-1"
+      }
+    ],
+    "user-pratha-1": [
+      {
+        "id": "sg-1789291971668",
+        "userId": "user-pratha-1",
+        "goalName": "Mobile",
+        "targetAmount": 20000,
+        "savedAmount": 0,
+        "targetDate": "2027-03-13",
+        "category": "gadgets",
+        "icon": "target",
+        "notes": "",
+        "deposits": [],
+        "createdAt": "2026-09-13T09:32:52.338Z"
+      }
+    ],
+    "prathaghevariya@gmail.com": [
+      {
+        "id": "sg-1789291971668",
+        "userId": "user-pratha-1",
+        "goalName": "Mobile",
+        "targetAmount": 20000,
+        "savedAmount": 0,
+        "targetDate": "2027-03-13",
+        "category": "gadgets",
+        "icon": "target",
+        "notes": "",
+        "deposits": [],
+        "createdAt": "2026-09-13T09:32:52.338Z"
+      }
+    ],
+    "user-1788403133412-605": [
+      {
+        "id": "sg-1789291971668",
+        "userId": "user-pratha-1",
+        "goalName": "Mobile",
+        "targetAmount": 20000,
+        "savedAmount": 0,
+        "targetDate": "2027-03-13",
+        "category": "gadgets",
+        "icon": "target",
+        "notes": "",
+        "deposits": [],
+        "createdAt": "2026-09-13T09:32:52.338Z"
+      }
+    ]
+  },
+  "userPriceTrackers": {}
+}
